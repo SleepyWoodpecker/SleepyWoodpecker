@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Keen on working with scalable applications<br>🌱 Current learning how to work with microcontrollers<br>💬 Ask me about what my favorite theme is<br>⚡ Am a treadmill warrior
+🔭 Keen on working with scalable applications<br>🌱 Current learning how to work with microcontrollers<br>💬 Ask me about what my favorite code editing theme is<br>⚡ Am a treadmill warrior
 
 
 ## 🌐 Socials:
